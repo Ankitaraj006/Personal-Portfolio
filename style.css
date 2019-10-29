@@ -1,0 +1,94 @@
+<!--Nav-bar-->
+navbar{
+  display: flex;
+  position:fixed;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  font-size:30px;
+  background-color:#E34234;
+  position: fixed;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+  color: var(--main-white);
+}
+
+li {
+  float: left;
+  padding:20px 30px 20px 350px;
+  color:white;
+}
+<!--Nav-bar-ends-->
+
+<!--Welcome-section-->
+#welcome-section{
+  height:100vh;
+ }
+.pages {
+  height: 100vh;
+}
+
+header{
+  font-size:50px;
+  padding:200px 0px 0px 450px;
+  color:#008B8B;
+}
+h1{
+  margin:unset;
+}
+p{
+ font-size:50px; 
+ padding-left:550px;
+ margin:unset;
+ padding-bottom:400px;
+}
+
+<!--Welcome-section-ends-->
+
+<!--Projects-->
+u{
+  font-size:35px;
+  padding-left:500px;
+}
+h2{
+  padding-left:460px;
+  padding-bottom:50px;
+  font-size:40px;
+ }
+img{
+  width:40%;
+  padding-left:80px;
+}
+figcaption{
+  padding-left:250px;
+  font-size:35px;
+  padding-bottom:100px;
+}
+#project-title{
+  float:right;
+}
+<!--Projects-end-->
+
+<!--Profile-link-->
+.profile {
+  text-align: center;
+  color: firebrick;
+}
+profile-link{
+  
+}
+
+.profile_div {
+  margin-top: 100px;
+}
+@media {
+  
+}
+
+
+
+<!--Profile-link-ends-->
